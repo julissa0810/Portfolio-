@@ -19,7 +19,6 @@
     border:1px solid black;   
 }
 
-
 .row { 
     display:flex; 
     justify-content: space-between;
@@ -42,11 +41,16 @@
 .headshot{ 
   width:60px ;  
 } 
-body
+body{ 
+    background-color: #D8BBCE;
+    font-family: poiret one;
+}
 .School{ 
    color: maroon; 
 } 
 .personal{ 
-    color:gold ;
-    
+    color:green ;
 } 
+.home{ 
+    color:#A2016A;
+}
