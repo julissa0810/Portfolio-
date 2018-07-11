@@ -1,0 +1,52 @@
+.row{   
+
+    background-color:White; 
+    color:black;
+    font-size:20px;
+}
+
+   
+
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:40px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+
+.row { 
+    display:flex; 
+    justify-content: space-between;
+}
+.row{ 
+  font-family: poiret one;
+}
+.row{ 
+    display: flex; 
+    justify-content: center; 
+}
+.footer{ 
+    display: flex; 
+    justify-content: space-between; 
+} 
+.contact{ 
+    display: flex;
+    justify-content: space-between;
+}
+.headshot{ 
+  width:60px ;  
+} 
+body
+.School{ 
+   color: maroon; 
+} 
+.personal{ 
+    color:gold ;
+    
+} 
