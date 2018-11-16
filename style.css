@@ -47,10 +47,21 @@ body{
 }
 .School{ 
    color: maroon; 
+   font-size: 30px;
 } 
 .personal{ 
     color:green ;
+  font-size: 30px;
 } 
 .home{ 
     color:#A2016A;
+     font-size: 30px;
 }
+
+.social{ 
+   font-family: poiret one;
+} 
+    
+    
+
+
