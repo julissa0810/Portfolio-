@@ -47,7 +47,7 @@ body{
 }
 .School{ 
    color: maroon; 
-   font-size: 30px;
+   font-size: 40px;
 } 
 .personal{ 
     color:green ;
@@ -56,13 +56,14 @@ body{
 .home{ 
     color:#A2016A;
      font-size: 30px;
-
 }
 
 .social{ 
    font-family: poiret one;
 } 
     
-    
+a :visited { 
+    color : green;
+} 
 
 
