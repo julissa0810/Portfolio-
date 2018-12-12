@@ -48,53 +48,34 @@
   width:60px ;  
    color: teal;
 } 
-.body{ 
+body{ 
     background-color: #D8BBCE;
-    font-family: 'Sirin Stencil';
-     
-}
-.School{ 
-   
-   font-size: 40px;
-    color: teal;
-} 
-.personal{ 
-    color:green ;
-  font-size: 30px;
-} 
-.home{ 
-    
-     font-size: 30px;
+
+
 }
 
 .who{
     text-align: center;
-    font-size: 200%;
+    font-size: 40%;
+    font-family: Alegreya;
 }
 
 h1{
- font-family: 'Alegreya', serif;
  font-size: 100%;
  text-align: center;
 }
 .image{
-    display:flex;
-    justify-content:center;
-    height: 800px; 
-    width: 800px;
-}
-.image2{
-  display:flex;
-    justify-content:center;
-    height: 800px; 
-    width: 800px;
-}
-
-
-.image3{
-      display:flex;
-    justify-content:center;
-    height: 800px; 
-    width: 800px;
-
+    display: flex;
+    
 } 
+
+
+.photo{
+    justify-content: space-between;
+    width:40%;
+    
+}
+
+.intro{
+    font-size: 100%;
+}
